@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controls\RoundedBtn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUserList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MqttestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Controls\RoundedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MainForms\FormWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\FormSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\SuccessForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\SignInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\otp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\verify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\FormGetOtp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\FormEmailOtpVerify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForms\FormReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\AddDeviceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\EditDeviceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\EditGroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\EditTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\GroupAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormDevicesControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormNoti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\RepeatDaysForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\ScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideForms\TypeAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SideMenuBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Controls\ToogleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

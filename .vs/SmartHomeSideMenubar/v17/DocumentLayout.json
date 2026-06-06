@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\forms\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:forms\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\forms\\formuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:forms\\formuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\mainforms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:mainforms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\mainforms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:mainforms\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\mainforms\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:mainforms\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\mainforms\\formgetotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:mainforms\\formgetotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\mainforms\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:mainforms\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\dbquery\\dbdeviceshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:dbquery\\dbdeviceshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\sideforms\\adddeviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:sideforms\\adddeviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\sideforms\\adddeviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:sideforms\\adddeviceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\forms\\formdevicescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:forms\\formdevicescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\forms\\formdevicescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:forms\\formdevicescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|c:\\users\\user\\onedrive\\desktop\\smarthomeprototype\\smarthomesidemenubar\\dbquery\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22119A08-2327-4445-8852-3EB3ED6C7A84}|main.csproj|solutionrelative:dbquery\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 48,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHistory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormHistory.cs",
+              "RelativeDocumentMoniker": "Forms\\FormHistory.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormHistory.cs",
+              "RelativeToolTip": "Forms\\FormHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:34:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUserList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormUserList.cs",
+              "RelativeDocumentMoniker": "Forms\\FormUserList.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormUserList.cs",
+              "RelativeToolTip": "Forms\\FormUserList.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAIIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:33:08.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignInForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\SignInForm.cs",
+              "RelativeDocumentMoniker": "MainForms\\SignInForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\SignInForm.cs",
+              "RelativeToolTip": "MainForms\\SignInForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:32:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\FormSignUp.cs",
+              "RelativeDocumentMoniker": "MainForms\\FormSignUp.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\FormSignUp.cs",
+              "RelativeToolTip": "MainForms\\FormSignUp.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:30:59.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddDeviceForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\SideForms\\AddDeviceForm.cs",
+              "RelativeDocumentMoniker": "SideForms\\AddDeviceForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\SideForms\\AddDeviceForm.cs",
+              "RelativeToolTip": "SideForms\\AddDeviceForm.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:30:24.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\DBQuery\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DBQuery\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\DBQuery\\DbHelper.cs",
+              "RelativeToolTip": "DBQuery\\DbHelper.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:28:16.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbDevicesHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\DBQuery\\DbDevicesHelper.cs",
+              "RelativeDocumentMoniker": "DBQuery\\DbDevicesHelper.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\DBQuery\\DbDevicesHelper.cs",
+              "RelativeToolTip": "DBQuery\\DbDevicesHelper.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAO0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:19:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\SignInForm.cs",
+              "RelativeDocumentMoniker": "MainForms\\SignInForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\SignInForm.cs [Design]",
+              "RelativeToolTip": "MainForms\\SignInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:32:05.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormGetOtp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\FormGetOtp.cs",
+              "RelativeDocumentMoniker": "MainForms\\FormGetOtp.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\FormGetOtp.cs [Design]",
+              "RelativeToolTip": "MainForms\\FormGetOtp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:31:31.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddDeviceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\SideForms\\AddDeviceForm.cs",
+              "RelativeDocumentMoniker": "SideForms\\AddDeviceForm.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\SideForms\\AddDeviceForm.cs [Design]",
+              "RelativeToolTip": "SideForms\\AddDeviceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:30:22.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\FormSignUp.cs",
+              "RelativeDocumentMoniker": "MainForms\\FormSignUp.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\MainForms\\FormSignUp.cs [Design]",
+              "RelativeToolTip": "MainForms\\FormSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:17:13.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDevicesControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormDevicesControl.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDevicesControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormDevicesControl.cs",
+              "RelativeToolTip": "Forms\\FormDevicesControl.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:06:13.932Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDevicesControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormDevicesControl.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDevicesControl.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\SmartHomePrototype\\SmartHomeSideMenubar\\Forms\\FormDevicesControl.cs [Design]",
+              "RelativeToolTip": "Forms\\FormDevicesControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:17:15.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

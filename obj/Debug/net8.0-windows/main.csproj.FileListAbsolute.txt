@@ -1,0 +1,390 @@
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Controls.SmartHomeSideMenubar.Controls.DataGridViewToggleButtonColumn.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDashboard.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormGroup.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormHistory.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormLogout.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormNoti.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormSettings.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormType.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.MqttestForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.Properties.Resources.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\AddDeviceForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditDeviceForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditGroupForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditTypeForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.GroupAddForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.TypeAddForm.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideMenuBar.resources
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.exe
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.deps.json
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.runtimeconfig.json
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.pdb
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MaterialSkin.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MQTTnet.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Downloads\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.Up2Date
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.dll
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\refint\main.dll
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.pdb
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+E:\Downloads\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ref\main.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.exe
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.deps.json
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.runtimeconfig.json
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.pdb
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MaterialSkin.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MQTTnet.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Controls.SmartHomeSideMenubar.Controls.DataGridViewToggleButtonColumn.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDashboard.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormGroup.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormHistory.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormLogout.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormNoti.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormSettings.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormType.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.MqttestForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.Properties.Resources.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\AddDeviceForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditDeviceForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditGroupForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditTypeForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.GroupAddForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.TypeAddForm.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideMenuBar.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.Up2Date
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\refint\main.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.pdb
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ref\main.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form7.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form8.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form9.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Profile.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Edit.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form1.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form2.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form3.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form4.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.OTP.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form6.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\bin\Debug\net8.0-windows\dje-NE\main.resources.dll
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.dje-NE.resources
+E:\Downloads\main\main\SmartHomeSideMenubar\obj\Debug\net8.0-windows\dje-NE\main.resources.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.exe
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.deps.json
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.runtimeconfig.json
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.pdb
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\dje-NE\main.resources.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MaterialSkin.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MQTTnet.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Controls.SmartHomeSideMenubar.Controls.DataGridViewToggleButtonColumn.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDashboard.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormGroup.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormHistory.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormNoti.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormSettings.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormType.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.MqttestForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form1.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form2.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form3.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form4.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.OTP.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form6.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form7.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form8.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form9.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Profile.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.Properties.Resources.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\AddDeviceForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Edit.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditDeviceForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditGroupForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditTypeForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.GroupAddForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.TypeAddForm.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideMenuBar.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.dje-NE.resources
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\dje-NE\main.resources.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.Up2Date
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\refint\main.dll
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.pdb
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+D:\Main\s and m path succeed2\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ref\main.dll
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Controls.SmartHomeSideMenubar.Controls.DataGridViewToggleButtonColumn.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDashboard.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormGroup.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormHistory.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormNoti.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormSettings.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormType.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.MqttestForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form1.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form2.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form3.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form4.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.OTP.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Form6.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form7.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form8.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.Form9.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Profile.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.Properties.Resources.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\AddDeviceForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Edit.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditDeviceForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditGroupForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditTypeForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.GroupAddForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\RepeatDaysForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ScheduleForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.TypeAddForm.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideMenuBar.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.dje-NE.resources
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.dll
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\refint\main.dll
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.pdb
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.exe
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.deps.json
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.runtimeconfig.json
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.pdb
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\dje-NE\main.resources.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MaterialSkin.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MQTTnet.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\dje-NE\main.resources.dll
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.Up2Date
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+E:\Downloads\MM\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ref\main.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Bindings.Https.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Client.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Configuration.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Core.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Gds.Client.Common.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Security.Certificates.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.Mqtt.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\BoxedAppSDK.Managed.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcComRcw.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.BaseLib.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.BaseLibComponents.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpc.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcClassic.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcClassicComponents.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcClassicCore.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcUA.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcUAComponents.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Diagnostics.Tracer.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Net.Mqtt.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Reactive.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.dll
+E:\Downloads\MM\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.exe
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.deps.json
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\main.pdb
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\dje-NE\main.resources.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\M2Mqtt.Net.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\MQTTnet.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Bindings.Https.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Client.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Configuration.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Core.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Gds.Client.Common.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\Opc.Ua.Security.Certificates.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.Mqtt.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\BoxedAppSDK.Managed.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcComRcw.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.BaseLib.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.BaseLibComponents.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpc.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcClassic.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcClassicComponents.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcClassicCore.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcUA.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\OpcLabs.EasyOpcUAComponents.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Diagnostics.Tracer.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Net.Mqtt.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Private.ServiceModel.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Controls.SmartHomeSideMenubar.Controls.DataGridViewToggleButtonColumn.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDashboard.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormGroup.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormHistory.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormNoti.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormType.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.MqttestForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.OTP.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Profile.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\AddDeviceForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Edit.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditDeviceForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditGroupForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.EditTypeForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.GroupAddForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\RepeatDaysForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ScheduleForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideForms.TypeAddForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SideMenuBar.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormDevicesControl.dje-NE.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\dje-NE\main.resources.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.csproj.Up2Date
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\refint\main.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.pdb
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\ref\main.dll
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SignInForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.SuccessForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\main.Forms.DashboardForm.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.FormEmailOtpVerify.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.FormGetOtp.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Welcome.FormReset.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.FormWelcome.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.verify.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.FormSignUp.resources
+C:\Users\User\OneDrive\Desktop\SmartHomePrototype\SmartHomeSideMenubar\obj\Debug\net8.0-windows\SmartHomeSideMenubar.Forms.FormUserList.resources
